@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-The Windows PC application version of LimNotes
+The Windows PC version of the LimNotes app
 
 ## Getting Started
 
