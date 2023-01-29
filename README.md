@@ -1,1 +1,1 @@
-# limnotes_no_notifications_windows_pc
+This is the Windows PC application version for LimNotes created by me using Flutter
