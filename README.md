@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+The Windows PC application version of LimNotes
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
